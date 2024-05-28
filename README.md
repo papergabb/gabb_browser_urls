@@ -6,7 +6,7 @@ here are some links you can access from the gabb 3 pro:
 
 [RECOMMENDED] iphone 15 pro max vm: https://appetize.io/embed/7kfu7r2ugwm7c4risjyigiuhve?device=iphone15promax&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A51.0.0%26channel-name%3Dproduction%26snack-channel%3Dn2qbJL0i4j&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=light&deviceColor=black&scale=auto&orientation=portrait&centered=both (no time limit)
 
-[RECOMMENDED] android vm with play store: https://now.gg/play/uncube/10005/now (no time limit)
+[RECOMMENDED] android vm with play store: https://testdrive4.now.gg/play/nova-launcher/8800_t1/nova-launcher (no time limit)
 
 classroomx6 (games site): https://classroomx6.github.io/ (no time limit)
 
