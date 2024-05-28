@@ -1,18 +1,20 @@
 # gabb_browser_urls
+you can request apps for now.gg by submitting an issue to this repo, i have dev access
+
 here are some links you can access from the gabb 3 pro:
-[RECOMMENDED] rammerhead (web proxy): https://flipgrid.cf
+[RECOMMENDED] rammerhead (web proxy): https://flipgrid.cf (dual)
 
-[RECOMMENDED] google pixel 7 pro vm: https://appetize.io/embed/6q5hgbmupyc6c5mhznjd37goga?device=pixel7pro&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A51.0.0%26channel-name%3Dproduction%26snack-channel%3DBOxb9UzOtG&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=light&deviceColor=black&scale=auto&orientation=portrait&centered=both (no time limit)
+[RECOMMENDED] google pixel 7 pro vm: https://appetize.io/embed/6q5hgbmupyc6c5mhznjd37goga?device=pixel7pro&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A51.0.0%26channel-name%3Dproduction%26snack-channel%3DBOxb9UzOtG&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=light&deviceColor=black&scale=auto&orientation=portrait&centered=both (no time limit) (dual)
 
-[RECOMMENDED] iphone 15 pro max vm: https://appetize.io/embed/7kfu7r2ugwm7c4risjyigiuhve?device=iphone15promax&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A51.0.0%26channel-name%3Dproduction%26snack-channel%3Dn2qbJL0i4j&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=light&deviceColor=black&scale=auto&orientation=portrait&centered=both (no time limit)
+[RECOMMENDED] iphone 15 pro max vm: https://appetize.io/embed/7kfu7r2ugwm7c4risjyigiuhve?device=iphone15promax&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A51.0.0%26channel-name%3Dproduction%26snack-channel%3Dn2qbJL0i4j&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=light&deviceColor=black&scale=auto&orientation=portrait&centered=both (no time limit) (dual)
 
-[RECOMMENDED] android vm with play store: https://testdrive4.now.gg/play/nova-launcher/8800_t1/nova-launcher (no time limit)
+[RECOMMENDED] android vm with play store: https://testdrive4.now.gg/play/nova-launcher/8800_t1/nova-launcher (no time limit) (dual)
+
+2k game demos in cloud: https://gamenow.gg
 
 classroomx6 (games site): https://classroomx6.github.io/ (no time limit)
 
-subway surfers: https://dddavit.github.io/subway/ (no time limit)
-
-geometry dash: https://geometrydashlite.io/geometry-dash-lite (no time limit)
+subway surfers: https://poki.com (no time limit)
 
 xbox cloud gaming: https://www.xbox.com/en-US/play (no time limit)
 
