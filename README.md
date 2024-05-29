@@ -22,8 +22,6 @@ fnaf 3: https://testdrive4.now.gg/play/scott-cawthon/8813_t1/five-nights-at-fred
 
 fnaf 4: https://testdrive4.now.gg/play/scott-cawthon/8814_t1/fnaf4
 
-temple run: https://testdrive4.now.gg/play/imangi-studios/8815_t1/temple-run-2
-
 mario kart tour: https://testdrive4.now.gg/play/nintendo-co-ltd/8806_t1/mario-kart-tour (no time limit) (dual) (very high data use)
 
 ezfn: https://testdrive4.now.gg/play/ezfn/8808_t1/ezfn
