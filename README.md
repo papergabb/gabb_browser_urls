@@ -14,17 +14,21 @@ geometry dash: https://testdrive4.now.gg/play/robtop-games/8807_t1/geometry-dash
 
 subway surfers in cloud: https://testdrive4.now.gg/play/sybo/8799_t1/subway-surfers
 
-fnaf 1: soon
+fnaf 1: https://testdrive4.now.gg/play/scott-cawthon/8810_t1/five-nights-at-freddys
 
-fnaf 2: soon
+fnaf 2: https://testdrive4.now.gg/play/scott-cawthon/8812_t1/five-nights-at-freddys-2-demo
 
-fnaf 3: soon
+fnaf 3: https://testdrive4.now.gg/play/scott-cawthon/8813_t1/five-nights-at-freddys-3-demo
 
-fnaf 4: soon
+fnaf 4: https://testdrive4.now.gg/play/scott-cawthon/8814_t1/fnaf4
+
+temple run: https://testdrive4.now.gg/play/imangi-studios/8815_t1/temple-run-2
 
 mario kart tour: https://testdrive4.now.gg/play/nintendo-co-ltd/8806_t1/mario-kart-tour (no time limit) (dual) (very high data use)
 
-nintendo switch emulator: soon
+ezfn: https://testdrive4.now.gg/play/ezfn/8808_t1/ezfn
+
+bowmasters: https://testdrive4.now.gg/play/playgendary-limited/8804_t1/bowmasters-archery-shooting
 
 2k game demos in cloud: https://gamenow.gg (10 min time limit) (very high data use)
 
@@ -61,3 +65,11 @@ last.fm: https://last.fm (low to high data use)
 invidious (ad-free youtube): https://iv.nboeck.de (no time limit)
 
 soundcloud: https://m.soundcloud.com
+
+tubi: https://tubi-tv.com
+
+pluto: https://pluto.tv
+
+xumo: https://play.xumo.com
+
+roku channel: https://therokuchannel.roku.com
