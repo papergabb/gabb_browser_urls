@@ -10,6 +10,22 @@ here are some links you can access from the gabb 3 pro:
 
 [RECOMMENDED] android vm with play store: https://testdrive4.now.gg/play/nova-launcher/8800_t1/nova-launcher (no time limit) (dual) (very high data use)
 
+geometry dash: https://testdrive4.now.gg/play/robtop-games/8807_t1/geometry-dash-lite (no time limit) (dual) (very high data use)
+
+subway surfers in cloud: soon
+
+fnaf 1: soon
+
+fnaf 2: soon
+
+fnaf 3: soon
+
+fnaf 4: soon
+
+mario kart tour: soon
+
+nintendo switch emulator: soon
+
 2k game demos in cloud: https://gamenow.gg (10 min time limit) (very high data use)
 
 classroomx6 (games site): https://classroomx6.github.io/ (no time limit) (high data use)
