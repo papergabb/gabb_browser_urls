@@ -22,7 +22,7 @@ fnaf 3: soon
 
 fnaf 4: soon
 
-mario kart tour: soon
+mario kart tour: https://testdrive4.now.gg/play/nintendo-co-ltd/8806_t1/mario-kart-tour (no time limit) (dual) (very high data use)
 
 nintendo switch emulator: soon
 
