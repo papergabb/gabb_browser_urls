@@ -14,7 +14,7 @@ here are some links you can access from the gabb 3 pro:
 
 classroomx6 (games site): https://classroomx6.github.io/ (no time limit) (high data use)
 
-subway surfers: https://poki.com (no time limit) (high data use)
+subway surfers html5: https://poki.com/en/g/subway-surfers (no time limit) (high data use)
 
 xbox cloud gaming: https://www.xbox.com/en-US/play (no time limit) (very high data use)
 
