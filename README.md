@@ -14,6 +14,8 @@ here are some links you can access from the gabb 3 pro:
 
 geometry dash: https://testdrive4.now.gg/play/robtop-games/8807_t1/geometry-dash-lite (no time limit) (dual) (very high data use)
 
+simpsons tapped out: https://testdrive4.now.gg/play/electronic-arts/8818_t1/the-simpsons-tapped-out
+
 subway surfers in cloud: https://testdrive4.now.gg/play/sybo/8799_t1/subway-surfers
 
 fnaf 1: https://testdrive4.now.gg/play/scott-cawthon/8810_t1/five-nights-at-freddys
