@@ -1,6 +1,12 @@
 # gabb_browser_urls
 you can request apps for now.gg by submitting an issue to this repo, i have dev access
 
+apps for nova launcher will be in this git as well
+
+happymod: android game mods
+
+null's clash: modded CoC
+
 here are some links you can access from the gabb 3 pro:
 [RECOMMENDED] rammerhead (web proxy): https://flipgrid.cf (dual) (very low data use)
 
