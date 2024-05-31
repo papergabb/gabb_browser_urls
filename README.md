@@ -16,6 +16,12 @@ geometry dash: https://testdrive4.now.gg/play/robtop-games/8807_t1/geometry-dash
 
 simpsons tapped out: https://testdrive4.now.gg/play/electronic-arts/8818_t1/the-simpsons-tapped-out
 
+futurama GoD: https://testdrive4.now.gg/play/wooga/8836_t1/futurama-game-of-drones
+
+rick and morty pocket mortys: https://testdrive4.now.gg/play/adult-swim-games/8835_t1/rick-and-morty-pocket-mortys
+
+animation throwdown ccg: https://testdrive4.now.gg/play/kongregate/8834_t1/animation-throwdown-epic-ccg
+
 subway surfers in cloud: https://testdrive4.now.gg/play/sybo/8799_t1/subway-surfers
 
 fnaf 1: https://testdrive4.now.gg/play/scott-cawthon/8810_t1/five-nights-at-freddys
