@@ -22,6 +22,8 @@ rick and morty pocket mortys: https://testdrive4.now.gg/play/adult-swim-games/88
 
 animation throwdown ccg: https://testdrive4.now.gg/play/kongregate/8834_t1/animation-throwdown-epic-ccg
 
+family guy another freakin mobile game: https://testdrive4.now.gg/play/jam-city-inc/8839_t1/family-guy-freakin-mobile-game
+
 subway surfers in cloud: https://testdrive4.now.gg/play/sybo/8799_t1/subway-surfers
 
 fnaf 1: https://testdrive4.now.gg/play/scott-cawthon/8810_t1/five-nights-at-freddys
