@@ -50,8 +50,6 @@ subway surfers html5: https://poki.com/en/g/subway-surfers (no time limit) (high
 
 xbox cloud gaming: https://www.xbox.com/en-US/play (no time limit) (very high data use)
 
-amazon luna (cloud gaming): https://luna.amazon.com/home (no time limit) (very high data use)
-
 playables (mobile cloud gaming): https://www.youtube.com/playables (no time limit) (very high data use)
 
 now.gg (mobile cloud gaming): https://now.gg (no time limit) (very high data use)
@@ -78,7 +76,7 @@ pluto: https://pluto.tv (no time limit) (very high data use)
 
 xumo: https://play.xumo.com (no time limit) (very high data use)
 
-roku channel: https://therokuchannel.roku.com (no time limit) (very high data use)
+plex: https://www.plex.com (no time limit) (very high data use)
 
 retrogames.cc (emulation): https://retrogames.cc (no time limit) (medium to very high data use)
 
